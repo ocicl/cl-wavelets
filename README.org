@@ -1,0 +1,10 @@
+* cl-wavelets
+
+Wavelet transform library
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/shamazmazum/cl-wavelets.git   |
+| commit  | 7b84858  |
+| systems | cl-wavelets |
+|---------+-------------------------------------------|
+
