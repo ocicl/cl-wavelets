@@ -2,9 +2,8 @@
 
 Wavelet transform library
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/shamazmazum/cl-wavelets.git   |
-| commit  | 7b84858  |
-| systems | cl-wavelets |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------------|
+| source  | git:https://github.com/shamazmazum/cl-wavelets.git |
+| commit  | 9e6db07                                            |
+| systems | cl-wavelets                                        |
+|---------+----------------------------------------------------|
