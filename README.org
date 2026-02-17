@@ -4,6 +4,6 @@ Wavelet transform library
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/shamazmazum/cl-wavelets.git |
-| commit  | 9e6db07                                            |
+| commit  | 6d0fe2a                                            |
 | systems | cl-wavelets                                        |
 |---------+----------------------------------------------------|
