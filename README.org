@@ -7,3 +7,4 @@ Wavelet transform library
 | commit  | 6d0fe2a                                            |
 | systems | cl-wavelets                                        |
 |---------+----------------------------------------------------|
+ 
